@@ -180,7 +180,7 @@ This research was conducted with AI assistance (Claude 4.5 Opus, Gemini 3.0 Pro,
 
 If you use this code or replicate the findings, please cite:
 
-> **Morgan, G. (2026).** *Recursive Instability Collapse (RIC): Empirical Evidence for Saturation Limits in Dark Matter Halos.* Zenodo. DOI: 10.5281/zenodo.XXXXXXX
+> **Morgan, G. (2026).** *Recursive Instability Collapse (RIC): Empirical Evidence for Saturation Limits in Dark Matter Halos.* Zenodo. DOI: 10.5281/zenodo.18224742
 
 ### Related Papers
 
